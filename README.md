@@ -13,5 +13,13 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.
 <!--- advent_readme_stars table --->
 
 <!--- benchmarking table --->
+## Benchmarks
+
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---:  |
+| [Day 1](./src/bin/01.rs) | `30.3µs` | `-` |
+
+**Total: 0.03ms**
+<!--- benchmarking table --->
 
 Generated from [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust). See [readme](https://github.com/fspoettel/advent-of-code-rust#readme) for instructions how to setup your own.
